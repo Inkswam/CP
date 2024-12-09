@@ -1,9 +1,0 @@
-- !!org.example.Student
-  address: {
-    city: Kyiv,
-    street: Main St
-  }
-  discount: false
-  name: Alice
-  payment: 1500.0
-  room: 101
